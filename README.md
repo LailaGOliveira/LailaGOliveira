@@ -57,5 +57,5 @@ Primeiros passos em análise de dados.
 ---
 
 <div align="center">
-  <b>“Transformando caos em código.”</b>
+ 
 </div>
