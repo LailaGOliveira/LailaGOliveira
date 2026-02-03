@@ -1,61 +1,47 @@
-<h1 align="center">👾 Quinn | Python Developer em formação</h1>
+<h1 align="center">👾 Hi there, I'm Laila!</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Criando projetos reais, um commit por vez.
+  Python Developer em formação • Estudante de ADS • Criadora de soluções simples e eficientes
 </p>
 
 ---
 
-## 🧠 Sobre mim
-- 🎮 Gamer, curiosa e apaixonada por tecnologia  
-- 🧪 Explorando automações, APIs e dados com Python  
-- 📚 Em constante evolução e transição de carreira  
-- 🏗️ Construindo meu portfólio com projetos práticos e didáticos  
+## ✨ Sobre mim
+Sou apaixonada por tecnologia, resolução de problemas e tudo que envolve criar algo do zero.  
+Atualmente estou em transição de carreira para a área de Desenvolvimento e focada em evoluir como **Python Developer**.
+
+Estou construindo meu portfólio com automações, APIs, projetos simples e úteis — sempre buscando aprender algo novo e transformar caos em código.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-**Linguagem principal:**  
-🐍 Python
-
-**Outros conhecimentos:**  
-- Git & GitHub  
-- APIs REST  
-- Automação de tarefas  
-- VS Code 
+## 🧠 Expertise / O que estou estudando
+- 🐍 Desenvolvimento com Python  
+- 🔧 Automação de tarefas  
+- 🌐 Consumo de APIs  
+- 📊 Primeiros passos em Dados  
+- 🧩 Lógica & Estrutura de projetos  
+- 🎯 Foco total em construir um portfólio sólido  
 
 ---
 
-## 🚀 Roadmap de estudos
-- [x] Lógica de programação  
-- [x] Python básico  
-- [ ] Automação com Python  
-- [ ] Consumo de APIs  
-- [ ] Análise de dados  
-- [ ] Criação de projetos completos  
+## 🛠️ Tech Stack
+
+### **Linguagens & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📁 Projetos (em construção)
-### 🔹 python-fundamentos  
-Exercícios e mini-projetos de base.
-
-### 🔹 automacoes-python  
-Scripts úteis do dia a dia.
-
-### 🔹 api-projects  
-Projetos usando APIs reais.
-
-### 🔹 data-python  
-Primeiros passos em análise de dados.
-
----
-
-## 📬 Como me encontrar
-📧 **E-mail profissional:** *lailaguimaraes.oliver@gmail.com*  
+</p>
 
 ---
 
 <div align="center">
- 
+  
 </div>
