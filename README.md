@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="bannergit.png" width="100%" />
+</p>
+
+
 <h1 align="center">👾 Hi there, I'm Laila!</h1>
 
 <p align="center">
